@@ -1,0 +1,97 @@
+fiscal_year,health_authority,hospital_name,procedure_group,waiting,completed,completed_50th_percentile,completed_90th_percentile
+2009/10,Fraser,All Facilities,All Procedures,22901.0,62147.0,6.0,27.6
+2009/10,Interior,All Facilities,All Procedures,14816.0,40352.0,5.9,26.7
+2009/10,Northern,All Facilities,All Procedures,4562.0,13858.0,5.1,31.4
+2009/10,Provincial Health Services Authority,All Facilities,All Procedures,505.0,2022.0,4.6,13.1
+2009/10,Vancouver Coastal,All Facilities,All Procedures,15515.0,57300.0,4.3,19.0
+2009/10,Vancouver Island,All Facilities,All Procedures,13821.0,43805.0,5.9,22.1
+2010/11,Fraser,All Facilities,All Procedures,24917.0,62469.0,7.3,28.9
+2010/11,Interior,All Facilities,All Procedures,13880.0,42251.0,5.9,29.7
+2010/11,Northern,All Facilities,All Procedures,3779.0,14346.0,5.3,29.1
+2010/11,Provincial Health Services Authority,All Facilities,All Procedures,2108.0,2135.0,4.0,12.3
+2010/11,Vancouver Coastal,All Facilities,All Procedures,16606.0,58185.0,4.1,19.6
+2010/11,Vancouver Island,All Facilities,All Procedures,14478.0,46268.0,6.4,25.0
+2011/12,Fraser,All Facilities,All Procedures,22728.0,61547.0,6.9,31.0
+2011/12,Interior,All Facilities,All Procedures,14465.0,42213.0,5.7,29.0
+2011/12,Northern,All Facilities,All Procedures,3743.0,15204.0,5.7,24.0
+2011/12,Provincial Health Services Authority,All Facilities,All Procedures,2045.0,8319.0,4.7,22.8
+2011/12,Vancouver Coastal,All Facilities,All Procedures,17766.0,59378.0,4.4,21.0
+2011/12,Vancouver Island,All Facilities,All Procedures,14999.0,46217.0,7.0,25.1
+2012/13,Fraser,All Facilities,All Procedures,22349.0,59334.0,6.0,29.7
+2012/13,Interior,All Facilities,All Procedures,13982.0,41466.0,5.6,30.6
+2012/13,Northern,All Facilities,All Procedures,3577.0,14544.0,5.3,23.0
+2012/13,Provincial Health Services Authority,All Facilities,All Procedures,2165.0,8642.0,3.3,18.7
+2012/13,Vancouver Coastal,All Facilities,All Procedures,15318.0,58536.0,4.1,20.9
+2012/13,Vancouver Island,All Facilities,All Procedures,16009.0,45467.0,6.9,26.1
+2013/14,Fraser,All Facilities,All Procedures,21989.0,60180.0,6.3,29.1
+2013/14,Interior,All Facilities,All Procedures,14039.0,41375.0,5.7,30.4
+2013/14,Northern,All Facilities,All Procedures,2998.0,14593.0,5.0,22.9
+2013/14,Provincial Health Services Authority,All Facilities,All Procedures,1733.0,8644.0,3.4,19.7
+2013/14,Vancouver Coastal,All Facilities,All Procedures,16706.0,56729.0,4.7,21.4
+2013/14,Vancouver Island,All Facilities,All Procedures,18114.0,44194.0,7.0,30.9
+2014/15,Fraser,All Facilities,All Procedures,22111.0,60654.0,7.0,31.9
+2014/15,Interior,All Facilities,All Procedures,15017.0,41527.0,6.7,32.0
+2014/15,Northern,All Facilities,All Procedures,3223.0,13295.0,4.4,22.3
+2014/15,Provincial Health Services Authority,All Facilities,All Procedures,1631.0,8531.0,3.0,21.3
+2014/15,Vancouver Coastal,All Facilities,All Procedures,17412.0,56581.0,5.4,25.7
+2014/15,Vancouver Island,All Facilities,All Procedures,17388.0,45708.0,8.3,37.6
+2015/16,Fraser,All Facilities,All Procedures,22649.0,61047.0,7.6,34.1
+2015/16,Interior,All Facilities,All Procedures,14586.0,42681.0,7.9,34.7
+2015/16,Northern,All Facilities,All Procedures,3189.0,12946.0,5.0,24.0
+2015/16,Provincial Health Services Authority,All Facilities,All Procedures,1646.0,8419.0,2.9,19.4
+2015/16,Vancouver Coastal,All Facilities,All Procedures,18046.0,58597.0,6.1,26.7
+2015/16,Vancouver Island,All Facilities,All Procedures,19207.0,45486.0,8.4,38.6
+2016/17,Fraser,All Facilities,All Procedures,24582.0,63840.0,8.0,33.4
+2016/17,Interior,All Facilities,All Procedures,13907.0,42733.0,7.9,34.4
+2016/17,Northern,All Facilities,All Procedures,4111.0,14064.0,5.4,23.1
+2016/17,Provincial Health Services Authority,All Facilities,All Procedures,2302.0,6911.0,5.7,23.0
+2016/17,Vancouver Coastal,All Facilities,All Procedures,21612.0,58470.0,6.4,27.3
+2016/17,Vancouver Island,All Facilities,All Procedures,18861.0,47265.0,8.3,39.7
+2017/18,Fraser,All Facilities,All Procedures,25291.0,64835.0,7.9,34.0
+2017/18,Interior,All Facilities,All Procedures,14255.0,41838.0,7.3,32.0
+2017/18,Northern,All Facilities,All Procedures,4336.0,14942.0,6.7,27.1
+2017/18,Provincial Health Services Authority,All Facilities,All Procedures,2136.0,8191.0,5.3,26.9
+2017/18,Vancouver Coastal,All Facilities,All Procedures,22155.0,59985.0,6.7,29.6
+2017/18,Vancouver Island,All Facilities,All Procedures,18231.0,47076.0,8.3,40.4
+2018/19,Fraser,All Facilities,All Procedures,26217.0,66671.0,7.9,32.4
+2018/19,Interior,All Facilities,All Procedures,14678.0,44191.0,7.6,32.9
+2018/19,Northern,All Facilities,All Procedures,4343.0,15602.0,7.0,25.6
+2018/19,Provincial Health Services Authority,All Facilities,All Procedures,1839.0,10113.0,3.9,20.9
+2018/19,Vancouver Coastal,All Facilities,All Procedures,22517.0,62492.0,6.6,31.0
+2018/19,Vancouver Island,All Facilities,All Procedures,17037.0,49715.0,8.0,35.6
+2019/20,Fraser,All Facilities,All Procedures,26854.0,66452.0,8.0,33.3
+2019/20,Interior,All Facilities,All Procedures,15604.0,43995.0,7.1,32.0
+2019/20,Northern,All Facilities,All Procedures,4427.0,15455.0,7.3,28.0
+2019/20,Provincial Health Services Authority,All Facilities,All Procedures,2399.0,10329.0,4.7,17.7
+2019/20,Vancouver Coastal,All Facilities,All Procedures,24447.0,62792.0,6.4,29.3
+2019/20,Vancouver Island,All Facilities,All Procedures,19657.0,49180.0,7.9,32.4
+2020/21,Fraser,All Facilities,All Procedures,24577.0,62037.0,6.7,40.9
+2020/21,Interior,All Facilities,All Procedures,14346.0,43320.0,8.0,37.9
+2020/21,Northern,All Facilities,All Procedures,5463.0,13049.0,6.7,29.4
+2020/21,Provincial Health Services Authority,All Facilities,All Procedures,2362.0,9354.0,5.1,26.6
+2020/21,Vancouver Coastal,All Facilities,All Procedures,20850.0,58753.0,5.6,37.9
+2020/21,Vancouver Island,All Facilities,All Procedures,16261.0,49096.0,7.0,40.6
+2021/22,Fraser,All Facilities,All Procedures,23806.0,70010.0,5.9,31.4
+2021/22,Interior,All Facilities,All Procedures,17507.0,44658.0,6.0,26.0
+2021/22,Northern,All Facilities,All Procedures,6589.0,13708.0,7.4,27.0
+2021/22,Provincial Health Services Authority,All Facilities,All Procedures,3771.0,9761.0,4.9,22.6
+2021/22,Vancouver Coastal,All Facilities,All Procedures,20845.0,63034.0,5.3,29.3
+2021/22,Vancouver Island,All Facilities,All Procedures,17467.0,53546.0,6.0,28.1
+2022/23,Fraser,All Facilities,All Procedures,21779.0,74780.0,5.9,28.1
+2022/23,Interior,All Facilities,All Procedures,15973.0,50514.0,7.7,32.1
+2022/23,Northern,All Facilities,All Procedures,7255.0,14749.0,7.7,36.9
+2022/23,Provincial Health Services Authority,All Facilities,All Procedures,4460.0,10481.0,7.1,33.1
+2022/23,Vancouver Coastal,All Facilities,All Procedures,23549.0,63502.0,5.9,30.3
+2022/23,Vancouver Island,All Facilities,All Procedures,18300.0,53506.0,7.0,29.3
+2023/24,Fraser,All Facilities,All Procedures,22557.0,76442.0,5.3,26.6
+2023/24,Interior,All Facilities,All Procedures,17686.0,52266.0,7.3,29.4
+2023/24,Northern,All Facilities,All Procedures,7609.0,15596.0,8.9,42.7
+2023/24,Provincial Health Services Authority,All Facilities,All Procedures,4558.0,12182.0,7.3,37.3
+2023/24,Vancouver Coastal,All Facilities,All Procedures,23256.0,66972.0,5.8,30.7
+2023/24,Vancouver Island,All Facilities,All Procedures,21380.0,54319.0,7.3,30.4
+2024/25,Fraser,All Facilities,All Procedures,23414.0,79001.0,5.3,27.6
+2024/25,Interior,All Facilities,All Procedures,17662.0,54863.0,7.0,32.0
+2024/25,Northern,All Facilities,All Procedures,5952.0,17240.0,9.3,42.4
+2024/25,Provincial Health Services Authority,All Facilities,All Procedures,4775.0,12859.0,7.0,29.9
+2024/25,Vancouver Coastal,All Facilities,All Procedures,21918.0,67970.0,5.3,28.6
+2024/25,Vancouver Island,All Facilities,All Procedures,21855.0,57295.0,7.9,32.6

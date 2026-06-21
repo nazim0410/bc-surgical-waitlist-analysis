@@ -1,0 +1,7 @@
+fiscal_year,health_authority,hospital_name,procedure_group,waiting,completed,completed_50th_percentile,completed_90th_percentile
+2024/25,Fraser,All Facilities,All Procedures,23414.0,79001.0,5.3,27.6
+2024/25,Vancouver Coastal,All Facilities,All Procedures,21918.0,67970.0,5.3,28.6
+2024/25,Vancouver Island,All Facilities,All Procedures,21855.0,57295.0,7.9,32.6
+2024/25,Interior,All Facilities,All Procedures,17662.0,54863.0,7.0,32.0
+2024/25,Northern,All Facilities,All Procedures,5952.0,17240.0,9.3,42.4
+2024/25,Provincial Health Services Authority,All Facilities,All Procedures,4775.0,12859.0,7.0,29.9

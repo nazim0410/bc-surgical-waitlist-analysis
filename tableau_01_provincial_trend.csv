@@ -1,0 +1,33 @@
+fiscal_year,health_authority,hospital_name,procedure_group,waiting,completed,completed_50th_percentile,completed_90th_percentile,period
+2009/10,All Health Authorities,All Facilities,All Procedures,72120.0,219484.0,5.3,24.3,"Pre-COVID
+(2009–2019)"
+2010/11,All Health Authorities,All Facilities,All Procedures,75768.0,225654.0,5.9,25.9,"Pre-COVID
+(2009–2019)"
+2011/12,All Health Authorities,All Facilities,All Procedures,75746.0,232878.0,5.7,26.3,"Pre-COVID
+(2009–2019)"
+2012/13,All Health Authorities,All Facilities,All Procedures,73400.0,227989.0,5.4,26.0,"Pre-COVID
+(2009–2019)"
+2013/14,All Health Authorities,All Facilities,All Procedures,75579.0,225715.0,5.7,27.3,"Pre-COVID
+(2009–2019)"
+2014/15,All Health Authorities,All Facilities,All Procedures,76782.0,226296.0,6.4,30.9,"Pre-COVID
+(2009–2019)"
+2015/16,All Health Authorities,All Facilities,All Procedures,79323.0,229176.0,7.0,32.3,"Pre-COVID
+(2009–2019)"
+2016/17,All Health Authorities,All Facilities,All Procedures,85375.0,233283.0,7.3,32.7,"Pre-COVID
+(2009–2019)"
+2017/18,All Health Authorities,All Facilities,All Procedures,86404.0,236867.0,7.3,33.3,"Pre-COVID
+(2009–2019)"
+2018/19,All Health Authorities,All Facilities,All Procedures,86631.0,248784.0,7.1,32.0,"Pre-COVID
+(2009–2019)"
+2019/20,All Health Authorities,All Facilities,All Procedures,93388.0,248203.0,7.1,31.1,"COVID Period
+(2019–2022)"
+2020/21,All Health Authorities,All Facilities,All Procedures,83859.0,235609.0,6.7,38.3,"COVID Period
+(2019–2022)"
+2021/22,All Health Authorities,All Facilities,All Procedures,89985.0,254717.0,5.9,28.4,"COVID Period
+(2019–2022)"
+2022/23,All Health Authorities,All Facilities,All Procedures,91316.0,267532.0,6.6,30.4,"Post-COVID
+(2022–2025)"
+2023/24,All Health Authorities,All Facilities,All Procedures,97046.0,277777.0,6.4,30.3,"Post-COVID
+(2022–2025)"
+2024/25,All Health Authorities,All Facilities,All Procedures,95576.0,289228.0,6.3,30.9,"Post-COVID
+(2022–2025)"
