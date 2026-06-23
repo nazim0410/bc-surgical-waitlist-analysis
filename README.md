@@ -4,7 +4,6 @@
 **Author:** Mohammad Nazim Rehman  
 **[View Interactive Tableau Dashboard →](https://public.tableau.com/app/profile/mohammad.nazim.rehman/viz/Project1_17820069097990/BCSurgicalWaitlistAnalysisTrendsCapacityRegionalEquity20092025)**
 
----
 
 ## Project Overview
 
